@@ -32,7 +32,7 @@
 }
 
 .todo-card {
-    width: 300px; /* Adjust the width of the cards as needed */
+    width: 520px; /* Adjust the width of the cards as needed */
     padding: 20px;
     background-color: white;
     border-radius: 8px;
@@ -96,7 +96,7 @@
 }
 
 .list-input {
-    width: 170px;
+    width: 130px;
     height: 25px;
 }
 
@@ -116,4 +116,5 @@
     gap: 140px;
     margin: 10px;
 }
+
 
